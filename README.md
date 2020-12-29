@@ -27,4 +27,4 @@ user : souley, mdp : souley
 http://127.0.0.1/wordpress/wp-login.php
 
 # localhost test autoindex
-http://127.0.0.1/files
+http://127.0.0.1/img
